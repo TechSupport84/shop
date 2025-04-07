@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Wireless Headphones",
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "price": 99.99,
+        "image": "../../assets/images/image2 (1).webp"
+    },
+    {
+        "id": 2,
+        "title": "Smart Watch",
+        "description": "Track your fitness and health with this advanced smartwatch.",
+        "price": 199.99,
+        "image": "../../assets/images/image2 (2).webp"
+    },
+    {
+        "id": 3,
+        "title": "Laptop Sleeve",
+        "description": "Protect your laptop with this soft and stylish sleeve.",
+        "price": 29.99,
+        "image": "../../assets/images/image2 (3).webp"
+    },
+    {
+        "id": 4,
+        "title": "Gaming Mouse",
+        "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+        "price": 49.99,
+        "image": "../../assets/images/image2 (4).webp"
+    },
+    {
+        "id": 5,
+        "title": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+        "price": 59.99,
+        "image": "../../assets/images/image2 (5).webp"
+    },
+    {
+        "id": 6,
+        "title": "Smartphone Stand",
+        "description": "Adjustable stand for smartphones and tablets.",
+        "price": 19.99,
+        "image": "../../assets/images/image2 (6).webp"
+    },
+    {
+        "id": 7,
+        "title": "Portable Power Bank",
+        "description": "High-capacity power bank to charge your devices on the go.",
+        "price": 39.99,
+        "image": "../../assets/images/image2 (7).webp"
+    },
+    {
+        "id": 8,
+        "title": "Fitness Tracker",
+        "description": "Track your steps, calories, and heart rate with this fitness tracker.",
+        "price": 79.99,
+        "image": "../../assets/images/image2 (8).webp"
+    },
+    {
+        "id": 9,
+        "title": "Laptop Cooling Pad",
+        "description": "Keep your laptop cool with this slim and portable cooling pad.",
+        "price": 34.99,
+        "image": "../../assets/images/image2 (9).webp"
+    },
+    {
+        "id": 10,
+        "title": "Desk Organizer",
+        "description": "Keep your desk tidy with this versatile desk organizer.",
+        "price": 24.99,
+        "image": "../../assets/images/image2 (10).webp"
+    }
+]

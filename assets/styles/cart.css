@@ -1,0 +1,94 @@
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .cart-page {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1.5rem;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .cart-page h2 {
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+        }
+
+        .cart-items {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 1rem;
+        }
+
+        .cart-items li {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 1rem;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .cart-items img {
+            width: 60px;
+            height: 60px;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+
+        .cart-details {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+        }
+
+        .cart-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .cart-total {
+            font-size: 1.2rem;
+            font-weight: bold;
+            text-align: right;
+        }
+
+        .checkout-btn {
+            display: block;
+            margin-left: auto;
+            padding: 0.75rem 1.5rem;
+            font-size: 1rem;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        .checkout-btn:hover {
+            background-color: #0056b3;
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+            background-color: #333;
+            color: white;
+        }
+
+        .cart button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .cart button:hover {
+            background-color: #0056b3;
+        }
