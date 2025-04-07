@@ -4,7 +4,7 @@ const productList = document.getElementById('product-list');
 // Async function to fetch and display products
 async function loadProducts() {
     try {
-        const response = await fetch("https://techsupport84.github.io/shop/products.json");
+        const response = await fetch("./products.json");
         if (!response.ok) {
             throw new Error('Failed to load products');
         }
